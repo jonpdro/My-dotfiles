@@ -2,7 +2,7 @@
 
 # Wallpaper selector script for Arch + Hyprland
 
-WALLPAPER_DIR="/JP/"
+WALLPAPER_DIR="/JP/Wallpapers"
 MENU_THEME="/home/jon/.config/rofi/wallpaper-list.rasi"
 SEARCH_THEME="/home/jon/.config/rofi/wallpaper-search.rasi"
 HYPRPAPER_CONF="/home/jon/.config/hypr/hyprpaper.conf"
