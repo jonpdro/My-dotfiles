@@ -47,7 +47,7 @@ opacity: 1;
 }
 
 #workspaces button.active {
-color: @color3;
+color: @color2;
 opacity: 1;
 font-weight: 800;
 transition: all 0.4s ease-in;
@@ -85,7 +85,7 @@ background: transparent;
 padding: 0px;
 padding-top: 1px;
 margin: 0px 12px 0px 0px;
-color: @color3;
+color: @color2;
 font-size: 18px;
 }
 
@@ -94,7 +94,7 @@ background: transparent;
 padding: 0px;
 padding-top: 1px;
 margin: 0px 12px 0px 0px;
-color: @color3;
+color: @color2;
 font-size: 18px;
 }
 
